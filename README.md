@@ -2,6 +2,8 @@
 
 This project is part of the freeCodeCamp Front End Development Libraries Certification. It's a simple web application that generates random quotes and allows users to tweet them. The project uses HTML, CSS, and JavaScript, along with jQuery for fetching and displaying random quotes.
 
+You can see it live at: https://szeilertamas.github.io/random-quote-machine/
+
 ## Features
 
 - Generate random quotes.
